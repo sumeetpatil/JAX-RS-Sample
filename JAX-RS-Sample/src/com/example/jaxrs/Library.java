@@ -1,4 +1,4 @@
-package com.maventic.jaxrs;
+package com.example.jaxrs;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
